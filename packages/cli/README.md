@@ -30,6 +30,4 @@ codesandbox ./
 
 - You need to be signed in to deploy, this is to prevent abuse
 
-## Inspiration
-
-I took a lot of inspiration from [now-cli](https://github.com/zeit/now-cli) and [preact-cli](https://github.com/developit/preact-cli) while building this.
+## Inspir
